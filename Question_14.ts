@@ -8,3 +8,4 @@ invitelist.forEach(fun);
 function fun(name:string){
     console.log(`Dear,${name} I am Honed to invite you on dinner`);
 }
+export{}
