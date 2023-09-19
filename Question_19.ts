@@ -6,3 +6,5 @@ invitelist.forEach(fun);
 function fun(name:string,index :number){
     console.log(`${index}: Dear,${name} I am Honed to invite you on dinner`);
 }
+
+export{}

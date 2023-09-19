@@ -15,3 +15,4 @@ function fun(name:string){
 console.log("\nDadi 'I am horned that you invite me but I can't come\n because I have workto do'\n");
 invitelist.splice(1,1);
 invitelist.forEach(fun);
+export{}
