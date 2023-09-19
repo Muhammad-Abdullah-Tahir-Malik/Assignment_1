@@ -13,3 +13,4 @@ if (outOfRangeElement === undefined) {
 } else {
 
     console.log(`Element at index 3: ${outOfRangeElement}`);
+}
